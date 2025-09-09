@@ -60,17 +60,5 @@ An interactive NLP-powered Stream lit app that lets you clean raw text, apply na
 
 
 
-### **📸 Screenshots**
 
-
-
-
-
-!\[Homepage Screenshot](Screenshots/Emotion.png)
-
-!\[Homepage Screenshot](screenshots/sentiment.png)
-
-!\[Homepage Screenshot](screenshots/N-Gram.png)
-
-!\[Homepage Screenshot](screenshots/wordcloud.png)
 
